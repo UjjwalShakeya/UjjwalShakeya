@@ -36,6 +36,9 @@ I mostly work with JavaScript, specifically Node.js in the backend with AWS as t
 
 ## 🌐 Connect with Me
 
+Explore my thoughts at vinitshahdeo.dev, and let's connect on 𝕏 [Twiter](https://twitter.com/yourusername) and [Linkedin](https://www.linkedin.com/in/ujjwal-shakeya-8b5a30214/).
+
+
 [![Follow on Twitter](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/yourusername)
 [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/ujjwal-shakeya-8b5a30214)
 
