@@ -7,9 +7,7 @@ Glad to see you here! I'm Ujjwal Shakeya, a Software Developer with a strong pas
 
 <!-- Currently, I'm [Your Current Role, e.g., building innovative solutions at Company Name as a Senior Backend Engineer, working on cutting-edge technology in the fintech domain]. Previously, I [Your Past Roles or Achievements, e.g., contributed to impactful projects at Company Name, such as building integrations and streamlining workflows]. -->
 
-My journey also includes mentoring in sharing knowledge with the tech community.
-
-Feel free to connect with me to explore more about my work, or drop by [Your Preferred Contact, e.g., LinkedIn or Twitter] to say hi. Let's build something amazing together! 🚀
+My journey also includes mentoring in sharing knowledge with the tech community. Feel free to connect with me to explore more about my work, or drop by @UjjwalShakeya to say hi. Let's build something amazing together! 🚀
 
 <!--
 🚀 **Innovative Developer | Open Source Enthusiast | Problem Solver**
