@@ -39,9 +39,7 @@ I mostly work with JavaScript, specifically Node.js in the backend with AWS as t
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UjjwalShakeya&layout=compact&theme=radical)
 
 ## 🌐 Connect with Me
 
