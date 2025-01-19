@@ -7,9 +7,7 @@ Glad to see you here! I'm Ujjwal Shakeya, a Software Developer with a strong pas
 
 With a knack for full-stack projects, I juggle coding with gardening 🌳, a feast for the ears with opera 🎶 to keep life in balance.
 
-Currently, I'm [Your Current Role, e.g., building innovative solutions at Company Name as a Senior Backend Engineer, working on cutting-edge technology in the fintech domain]. Previously, I [Your Past Roles or Achievements, e.g., contributed to impactful projects at Company Name, such as building integrations and streamlining workflows].
-
-My journey also includes mentoring in [Your Mentorship Contributions, e.g., Google Summer of Code (GSoC)] and sharing knowledge with the tech community.
+My journey also includes mentoring in sharing knowledge with the tech community.
 
 Feel free to connect with me to explore more about my work, or drop by [Your Preferred Contact, e.g., LinkedIn or Twitter] to say hi. Let's build something amazing together! 🚀
 
