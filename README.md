@@ -13,20 +13,26 @@ My journey also includes mentoring in sharing knowledge with the tech community.
 
 Feel free to connect with me to explore more about my work, or drop by [Your Preferred Contact, e.g., LinkedIn or Twitter] to say hi. Let's build something amazing together! 🚀
 
-
+<!--
 🚀 **Innovative Developer | Open Source Enthusiast | Problem Solver**
 
----
+Featured blogs/articles
+📖 A Developer’s Story – Vinit Shahdeo
+🚀 Join Postman at Google Summer of Code 2023
+💻 If You Are A Techie, Your Home Page Should Be GitHub, Not Instagram
+🌟 Vinit Shahdeo: From a GitHub User to a GitHub Star
+🧠 10 lessons I've learned as a Software Engineer at Postman
+Projects
+Apart from the pinned repositories, I have built:
 
-## 👨‍💻 About Me
+🛡️ Peerlist README Badges (included in Peerlist official tools)
+🔍 OpenAPI Web Search (part of GSoC at Postman)
+💧 Water Monitoring System (part of Rails Girls Summer Of Code)
+🦠 COVID-19 Tracker (featured in newspapers, blogs)
+-->
 
-- 🔭 I’m currently working on **[Project Name](link-to-project)**.
-- 🌱 I’m learning **[Skill or Technology]**.
-- 👯 I’m open to collaborating on **Open Source Projects**.
-- 💬 Ask me about **[Topics You Are Good At]**.
-- ⚡ Fun fact: **[Add Something Interesting About Yourself]**.
-
----
+## Tech Stack
+I mostly work with JavaScript, specifically Node.js in the backend with AWS as the cloud and Kafka as the queuing system. Recently, I have been tinkering with GoLang.
 
 ## 📊 My GitHub Stats
 
