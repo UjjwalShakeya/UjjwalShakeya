@@ -3,9 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=UjjwalShakeya&color=blueviolet&style=flat)
 
 
-Glad to see you here! I'm Ujjwal Shakeya, a Software Developer with a strong passion for Python, JavaScript, and open-source contributions. I love using technology to solve everyday problems and enjoy finding creative ways to improve.
-
-With a knack for full-stack projects, I juggle coding with gardening 🌳, a feast for the ears with opera 🎶 to keep life in balance.
+Glad to see you here! I'm Ujjwal Shakeya, a Software Developer with a strong passion for Python, JavaScript, and open-source contributions. I love using technology to solve everyday problems and enjoy finding creative ways to improve.With a knack for full-stack projects, I juggle coding with gardening 🌳, a feast for the ears with opera 🎶 to keep life in balance.
 
 <!-- Currently, I'm [Your Current Role, e.g., building innovative solutions at Company Name as a Senior Backend Engineer, working on cutting-edge technology in the fintech domain]. Previously, I [Your Past Roles or Achievements, e.g., contributed to impactful projects at Company Name, such as building integrations and streamlining workflows]. -->
 
