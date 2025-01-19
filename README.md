@@ -1,6 +1,6 @@
 ## Hello, Ujjwal Here ! 👨‍💻
 
-![Profile Views](https://komarev.com/ghpvc/?username=UjjwalShakeya&color=ff69b4&style=plastic)
+![Profile Views](https://komarev.com/ghpvc/?username=UjjwalShakeya&color=blueviolet&style=flat)
 
 🚀 **Innovative Developer | Open Source Enthusiast | Problem Solver**
 
