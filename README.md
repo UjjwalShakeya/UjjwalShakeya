@@ -47,7 +47,9 @@ I mostly work with JavaScript, specifically Node.js in the backend with AWS as t
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/your-twitter-handle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=google-chrome)](https://yourportfolio.com)
 
----
+## Let's code, connect, and create awesome things together!
+![GitHub Readme Stats](https://camo.githubusercontent.com/0cf755dff3674856c9437ae6d8d64db47b21b686b0b9373d4b32257ec6ae5177/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d76696e69747368616864656f2673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565267468656d653d64617263756c6126686964655f626f726465723d7472756526686964653d6973737565732c636f6e74726962732662675f636f6c6f723d3030303030303030)
+
 
 ## 🔧 Skills & Tools
 
