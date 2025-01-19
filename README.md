@@ -35,7 +35,6 @@ I mostly work with JavaScript, specifically Node.js in the backend with AWS as t
 ![React](https://camo.githubusercontent.com/27af4e1937eee25179981c6d7e1a2cec6d1b00b4f7e0e13c1b54d53dbc22e406/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f6c6f676f3d7265616374266c6f676f436f6c6f723d363144414642)
 ![Python](https://camo.githubusercontent.com/13cf304574073bb8a2b35d18e3d88adf7fe604c75ccbc70a02e905e5be6321f4/687474703a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d4646374130423f6c6f676f3d707974686f6e2e696d67266c6f676f436f6c6f723d7768697465)
 
-
 ## 📊 My GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
