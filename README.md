@@ -60,8 +60,7 @@ I mostly work with JavaScript, specifically Node.js in the backend with AWS as t
 - **Tools**: Git, Docker, Figma, etc.
 - **Databases**: MongoDB, PostgreSQL, MySQL, etc.
 
----
-
+<!--
 ## 🚀 Projects
 
 ### 🌟 [Project Name](link-to-project)
@@ -86,7 +85,5 @@ If you enjoy my work, feel free to:
 - 🛠 Contribute to my projects.
 - ☕ [Buy me a coffee!](https://www.buymeacoffee.com/your-profile)
 
----
-
-_This README was inspired by [Vinit Shahdeo](https://github.com/vinitshahdeo)._ 
+-->
 
