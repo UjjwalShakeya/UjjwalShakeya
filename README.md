@@ -1,8 +1,5 @@
 ## Hello, Ujjwal Here ! 👨‍💻
 
-
-# Hi there! 👋 I'm [Your Name]
-
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue&style=flat-square)
 
 🚀 **Innovative Developer | Open Source Enthusiast | Problem Solver**
