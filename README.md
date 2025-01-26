@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=UjjwalShakeya&color=blueviolet&style=flat)
 
 
-Glad to see you here! I'm Ujjwal Shakeya, a **Software Developer** with a strong passion for **Python,JavaScript**, and open-source contributions. I love using technology to solve everyday problems and enjoy finding creative ways to improve. With a knack for full-stack projects, I juggle coding with gardening 🌳, a feast for the ears with opera 🎶 to keep life in balance.
+Glad to see you here! I'm Ujjwal Shakeya, a **Software Developer** with a strong passion for **Python, JavaScript**, and open-source contributions. I love using technology to solve everyday problems and enjoy finding creative ways to improve. With a knack for full-stack projects, I juggle coding with gardening 🌳, a feast for the ears with opera 🎶 to keep life in balance.
 
 <!-- Currently, I'm [Your Current Role, e.g., building innovative solutions at Company Name as a Senior Backend Engineer, working on cutting-edge technology in the fintech domain]. Previously, I [Your Past Roles or Achievements, e.g., contributed to impactful projects at Company Name, such as building integrations and streamlining workflows]. -->
 
@@ -47,11 +47,11 @@ I mostly work with JavaScript, specifically Node.js in the backend with AWS as t
 
 Explore my thoughts at vinitshahdeo.dev, and let's connect on 𝕏 [Twiter](https://twitter.com/yourusername) and [Linkedin](https://www.linkedin.com/in/ujjwal-shakeya-8b5a30214/).
 
-
 [![Follow on Twitter](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/yourusername)
 [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/ujjwal-shakeya-8b5a30214)
 ![GitHub followers](https://img.shields.io/github/followers/UjjwalShakeya)
-
+![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)
+![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white)
 
 
 **Let's code, connect, and create awesome things together!**
