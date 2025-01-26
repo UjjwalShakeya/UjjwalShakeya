@@ -79,6 +79,17 @@ Explore my thoughts at vinitshahdeo.dev, and let's connect on 𝕏 [Twiter](http
 - **Tools**: Git, Docker, Figma, etc.
 - **Databases**: MongoDB, PostgreSQL, MySQL, etc.
 
+## 🤝 Support Me
+
+If you enjoy my work, feel free to:
+- ⭐ Star my repositories.
+- 🛠 Contribute to my projects.
+
+Thank you for supporting me !!
+
+[![Stargazers repo roster for @UjjwalShakeya/UjjwalShakeya](https://reporoster.com/stars/dark/UjjwalShakeya/UjjwalShakeya)](https://github.com/UjjwalShakeya/UjjwalShakeya/stargazers)
+
+
 <!--
 ## 🚀 Projects
 
@@ -96,13 +107,7 @@ Short description of the project.
 - Outside of tech, I enjoy **[Your Hobbies, e.g., hiking, painting, etc.]**.
 
 ---
-
-## 🤝 Support Me
-
-If you enjoy my work, feel free to:
-- ⭐ Star my repositories.
-- 🛠 Contribute to my projects.
-- ☕ [Buy me a coffee!](https://www.buymeacoffee.com/your-profile)
-
 -->
+
+
 
