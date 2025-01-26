@@ -43,6 +43,18 @@ I mostly work with JavaScript, specifically Node.js in the backend with AWS as t
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo-amazon-aws)
 
+
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=117583825" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=117583825&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @UjjwalShakeya" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=117583825&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
 ## 🌐 Connect with Me
 
 Explore my thoughts at vinitshahdeo.dev, and let's connect on 𝕏 [Twiter](https://twitter.com/yourusername) and [Linkedin](https://www.linkedin.com/in/ujjwal-shakeya-8b5a30214/).
