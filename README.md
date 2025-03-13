@@ -57,7 +57,7 @@ I mostly work with JavaScript, specifically Node.js in the backend with AWS as t
 
 ## 🌐 Connect with Me
 
-Explore my thoughts at vinitshahdeo.dev, and let's connect on 𝕏 [Twiter](https://twitter.com/yourusername) and [Linkedin](https://www.linkedin.com/in/ujjwal-shakeya-8b5a30214/).
+let's connect on 𝕏 [Twiter](https://twitter.com/yourusername) and [Linkedin](https://www.linkedin.com/in/ujjwal-shakeya-8b5a30214/).
 
 [![Follow on Twitter](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/yourusername)
 [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/ujjwal-shakeya-8b5a30214)
@@ -67,8 +67,7 @@ Explore my thoughts at vinitshahdeo.dev, and let's connect on 𝕏 [Twiter](http
 
 
 **Let's code, connect, and create awesome things together!**
-
-<div style="display: flex; gap: 10px; align-items: center;">
+<div>
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=UjjwalShakeya&show_icons=true&theme=great-gatsby&bg_color=0D1117&border_color=3D444D"
@@ -78,12 +77,21 @@ Explore my thoughts at vinitshahdeo.dev, and let's connect on 𝕏 [Twiter](http
       srcset="https://github-readme-stats.vercel.app/api?username=UjjwalShakeya&show_icons=true&bg_color=transparent"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=UjjwalShakeya&show_icons=true&bg_color=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api?username=UjjwalShakeya&show_icons=true&bg_color=transparent" style="max-height: 200px;" />
   </picture>
-
-  <img src="https://camo.githubusercontent.com/bf71b04b97d98b9483afee222a425876bc38a4abee0b84d32968996fb61b7b6f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d76696e69747368616864656f266c61796f75743d636f6d7061637426686964655f626f726465723d74727565267468656d653d64617263756c612662675f636f6c6f723d3030303030303030266c616e67735f636f756e743d3626686964653d6a7570797465722532306e6f7465626f6f6b2c7465782c6373732c706870266578636c7564655f7265706f3d5061636d616e2d4149" />
-</div>
-
+  
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=UjjwalShakeya&layout=compact&show_icons=true&theme=great-gatsby&bg_color=0D1117&border_color=0D1117"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=UjjwalShakeya&layout=compact&show_icons=true&bg_color=transparent"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjjwalShakeya&layout=compact&show_icons=true&bg_color=transparent" style="max-height: 200px;" />
+  </picture>
+  </div>
 
 
 ## 🔧 Skills & Tools
@@ -113,15 +121,7 @@ Short description of the project and why it’s awesome.
 ### 🔗 [Another Project Name](link-to-another-project)
 Short description of the project.
 
----
-
-## 💡 Fun Facts
-- I love exploring **[Your Interests, e.g., AI, Blockchain, Game Dev, etc.]**.
-- I enjoy contributing to **[Open Source, specific communities, etc.]**.
-- Outside of tech, I enjoy **[Your Hobbies, e.g., hiking, painting, etc.]**.
-
----
--->
+--->
 
 
 
