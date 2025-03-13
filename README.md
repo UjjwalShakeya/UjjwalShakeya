@@ -70,7 +70,7 @@ let's connect on 𝕏 [Twiter](https://twitter.com/yourusername) and [Linkedin](
 <div>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=UjjwalShakeya&show_icons=true&theme=great-gatsby&bg_color=0D1117&border_color=3D444D"
+      srcset="https://github-readme-stats.vercel.app/api?username=UjjwalShakeya&show_icons=true&theme=great-gatsby&bg_color=0D1117&border_color=0D1117"
       media="(prefers-color-scheme: dark)"
     />
     <source
