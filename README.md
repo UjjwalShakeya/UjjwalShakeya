@@ -67,6 +67,40 @@ let's connect on [Linkedin](https://www.linkedin.com/in/ujjwal-shakeya-8b5a30214
 
 
 **Let's code, connect, and create awesome things together!**
+
+---
+
+### 🛠️ Tech Stack
+
+#### 💻 Languages
+- JavaScript (ES6+), TypeScript, Python  
+
+#### 🎨 Frontend
+- React.js, Redux Toolkit  
+- HTML5, CSS3, Tailwind CSS, Bootstrap  
+
+#### ⚙️ Backend
+- Node.js, Express.js  
+- REST APIs, JWT Authentication  
+- MVC Architecture  
+
+#### 🗄️ Database
+- MongoDB, Mongoose, PostgreSQL  
+
+#### 🧰 Tools & Platforms
+- Git, GitHub  
+- Postman, MongoDB Compass  
+- VS Code  
+
+#### 🧠 Core Concepts
+- Data Structures & Algorithms  
+- System Design (Basics)  
+- OOP, State Management  
+
+---
+
+### 📊 GitHub Stats
+
 <div>
   <picture>
     <source
@@ -79,19 +113,19 @@ let's connect on [Linkedin](https://www.linkedin.com/in/ujjwal-shakeya-8b5a30214
     />
     <img src="https://github-readme-stats.vercel.app/api?username=UjjwalShakeya&show_icons=true&bg_color=transparent" style="max-height: 200px;" />
   </picture>
-  
+
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=UjjwalShakeya&layout=compact&show_icons=true&theme=great-gatsby&bg_color=0D1117&border_color=0D1117"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=UjjwalShakeya&layout=compact&theme=great-gatsby&bg_color=0D1117&border_color=0D1117"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=UjjwalShakeya&layout=compact&show_icons=true&bg_color=transparent"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=UjjwalShakeya&layout=compact&bg_color=transparent"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjjwalShakeya&layout=compact&show_icons=true&bg_color=transparent" style="max-height: 200px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjjwalShakeya&layout=compact&bg_color=transparent" style="max-height: 200px;" />
   </picture>
-  </div>
+</div>
 
 
 ## 🔧 Skills & Tools
