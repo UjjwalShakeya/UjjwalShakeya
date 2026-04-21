@@ -166,6 +166,14 @@ My experience spans RESTful API design, database modeling (MongoDB & PostgreSQL)
 ## GitHub Stats
 
 <div align="center">
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=117583825" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=117583825&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @UjjwalShakeya" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=117583825&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<br/><br/>
 
 <a href="https://github.com/UjjwalShakeya">
   <picture>
@@ -178,16 +186,6 @@ My experience spans RESTful API design, database modeling (MongoDB & PostgreSQL)
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=UjjwalShakeya&layout=compact&theme=tokyonight&bg_color=0D1117&border_color=30363d"/>
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=UjjwalShakeya&layout=compact&theme=default"/>
     <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjjwalShakeya&layout=compact&theme=tokyonight"/>
-  </picture>
-</a>
-
-<br/><br/>
-
-<a href="https://git.io/streak-stats">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=UjjwalShakeya&theme=tokyonight&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=UjjwalShakeya&theme=default&border_radius=5"/>
-    <img src="https://streak-stats.demolab.com?user=UjjwalShakeya&theme=tokyonight&border_radius=5"/>
   </picture>
 </a>
 
