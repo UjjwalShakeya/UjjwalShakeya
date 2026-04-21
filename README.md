@@ -68,19 +68,6 @@ let's connect on [Linkedin](https://www.linkedin.com/in/ujjwal-shakeya-8b5a30214
 
 **Let's code, connect, and create awesome things together!**
 
----
-
-### 🛠️ Skills & Tools
-
-- **Languages:** JavaScript (ES6+), TypeScript, Python  
-- **Frontend:** React.js, Redux Toolkit, HTML5, CSS3, Tailwind CSS, Bootstrap  
-- **Backend:** Node.js, Express.js, REST APIs, JWT Authentication, MVC Architecture  
-- **Databases:** MongoDB, Mongoose, PostgreSQL  
-- **Tools:** Git, GitHub, Postman, MongoDB Compass, VS Code  
-- **Core Concepts:** Data Structures & Algorithms, System Design (Basics), OOP, State Management  
-
----
-
 ### 📊 GitHub Stats
 
 <div>
@@ -109,13 +96,18 @@ let's connect on [Linkedin](https://www.linkedin.com/in/ujjwal-shakeya-8b5a30214
   </picture>
 </div>
 
+---
 
-## 🔧 Skills & Tools
+### 🛠️ Skills & Tools
 
-- **Languages**: Python, JavaScript, C++, etc.
-- **Frameworks**: React, Node.js, Express, etc.
-- **Tools**: Git, Docker, Figma, etc.
-- **Databases**: MongoDB, PostgreSQL, MySQL, etc.
+- **Languages:** JavaScript (ES6+), TypeScript, Python  
+- **Frontend:** React.js, Redux Toolkit, HTML5, CSS3, Tailwind CSS, Bootstrap  
+- **Backend:** Node.js, Express.js, REST APIs, JWT Authentication, MVC Architecture  
+- **Databases:** MongoDB, Mongoose, PostgreSQL  
+- **Tools:** Git, GitHub, Postman, MongoDB Compass, VS Code  
+- **Core Concepts:** Data Structures & Algorithms, System Design (Basics), OOP, State Management  
+
+---
 
 ## 🤝 Support Me
 
