@@ -32,8 +32,6 @@ My experience spans RESTful API design, database modeling (MongoDB & PostgreSQL)
 - 🌍 &nbsp; Open to **full-time SDE roles** in product companies across India and globally
 - 🤝 &nbsp; Available for **open-source collaboration** and knowledge sharing
 
-<br/>
-
 ## Tech Stack
 
 **Languages**
@@ -71,7 +69,6 @@ My experience spans RESTful API design, database modeling (MongoDB & PostgreSQL)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<br/>
 ## Featured Projects
  
 <table>
@@ -160,10 +157,10 @@ My experience spans RESTful API design, database modeling (MongoDB & PostgreSQL)
 </td>
 </tr>
 </table>
-<br/>
-
 
 ## GitHub Stats
+
+<br/>
 
 <div align="center">
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=117583825" target="_blank" style="display: block" align="center">
@@ -190,8 +187,6 @@ My experience spans RESTful API design, database modeling (MongoDB & PostgreSQL)
 </a>
 
 </div>
-
-<br/>
 
 ## Connect
 
