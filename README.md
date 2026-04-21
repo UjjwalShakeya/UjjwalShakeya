@@ -70,32 +70,14 @@ let's connect on [Linkedin](https://www.linkedin.com/in/ujjwal-shakeya-8b5a30214
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Skills & Tools
 
-#### 💻 Languages
-- JavaScript (ES6+), TypeScript, Python  
-
-#### 🎨 Frontend
-- React.js, Redux Toolkit  
-- HTML5, CSS3, Tailwind CSS, Bootstrap  
-
-#### ⚙️ Backend
-- Node.js, Express.js  
-- REST APIs, JWT Authentication  
-- MVC Architecture  
-
-#### 🗄️ Database
-- MongoDB, Mongoose, PostgreSQL  
-
-#### 🧰 Tools & Platforms
-- Git, GitHub  
-- Postman, MongoDB Compass  
-- VS Code  
-
-#### 🧠 Core Concepts
-- Data Structures & Algorithms  
-- System Design (Basics)  
-- OOP, State Management  
+- **Languages:** JavaScript (ES6+), TypeScript, Python  
+- **Frontend:** React.js, Redux Toolkit, HTML5, CSS3, Tailwind CSS, Bootstrap  
+- **Backend:** Node.js, Express.js, REST APIs, JWT Authentication, MVC Architecture  
+- **Databases:** MongoDB, Mongoose, PostgreSQL  
+- **Tools:** Git, GitHub, Postman, MongoDB Compass, VS Code  
+- **Core Concepts:** Data Structures & Algorithms, System Design (Basics), OOP, State Management  
 
 ---
 
