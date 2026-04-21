@@ -32,16 +32,16 @@ I mostly work with JavaScript, specifically Node.js in the backend with AWS as t
 
 ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=black)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-ea2845?logo=nestjs&logoColor=white)
+<!-- ![NestJS](https://img.shields.io/badge/-NestJS-ea2845?logo=nestjs&logoColor=white) -->
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![GoLang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)
+<!--  ![GoLang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white) -->
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql)
+<!-- ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql) -->
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apache-kafka&logoColor=white)
+<!--  ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apache-kafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo-amazon-aws)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo-amazon-aws)-->
 
 
 <!-- Copy-paste in your Readme.md file -->
@@ -57,13 +57,13 @@ I mostly work with JavaScript, specifically Node.js in the backend with AWS as t
 
 ## 🌐 Connect with Me
 
-let's connect on 𝕏 [Twiter](https://twitter.com/yourusername) and [Linkedin](https://www.linkedin.com/in/ujjwal-shakeya-8b5a30214/).
+let's connect on [Linkedin](https://www.linkedin.com/in/ujjwal-shakeya-8b5a30214/).
 
-[![Follow on Twitter](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/yourusername)
+<!-- [![Follow on Twitter](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/yourusername)-->
 [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/ujjwal-shakeya-8b5a30214)
 ![GitHub followers](https://img.shields.io/github/followers/UjjwalShakeya)
-![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)
-![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white)
+<!--![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)
+![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white)-->
 
 
 **Let's code, connect, and create awesome things together!**
