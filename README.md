@@ -72,109 +72,96 @@ My experience spans RESTful API design, database modeling (MongoDB & PostgreSQL)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <br/>
-
 ## Featured Projects
-
+ 
 <table>
 <tr>
 <td width="50%" valign="top">
-
 ### 🤖 Zyntra AI — SaaS Platform
 > AI-powered content generation suite for creators & professionals
-
+ 
 **Stack:** React · Node.js · Express · PostgreSQL · Clerk
-
+ 
 - Integrated **Gemini, Clipdrop & Cloudinary APIs** for AI-driven content and image generation workflows
 - Reduced manual content effort by **~80%** via automated generation pipelines
 - Implemented **Clerk Auth** with tiered subscription model and role-based access control
 - Built multi-tenant real-time dashboard for personalized content tracking
-
 🔗 [View Project](#) &nbsp;|&nbsp; [Live Demo](#)
-
+ 
 </td>
 <td width="50%" valign="top">
-
 ### 📄 Resume Builder — Full-Stack App
 > Real-time resume creation, preview & export platform · `Dec 2025`
-
+ 
 **Stack:** React · Redux Toolkit · Node.js · Express · MongoDB · OpenAI API
-
+ 
 - Integrated **OpenAI API** to auto-generate professional summaries, reducing content creation time by **~90%**
 - **Redux Toolkit** global state management with real-time sync across resume sections
 - RESTful APIs achieving **99% reliable** form submission & data persistence
 - Scalable data storage and retrieval architecture with MongoDB Atlas
-
 🔗 [View Project](#) &nbsp;|&nbsp; [Live Demo](#)
-
+ 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
 ### 📱 Postaway-II — Social Media Backend
 > Production-grade scalable REST API · `Aug – Oct 2025`
-
+ 
 **Stack:** Node.js · Express · MongoDB · JWT
-
+ 
 - Architected with **repository pattern & modular MVC** for maintainability at scale
 - Full feature set: posts, comments, likes, friendship system, **OTP-based password reset**
 - Secure JWT authentication with consistent RESTful error handling throughout
 - Designed for extensibility with cleanly separated, pluggable modules
-
 🔗 [View Project](#) &nbsp;|&nbsp; [API Docs](#)
-
+ 
 </td>
 <td width="50%" valign="top">
-
 ### 🌐 Postaway API — Social Media REST API
 > Feature-rich social API with advanced querying · `Jul – Aug 2025`
-
+ 
 **Stack:** Node.js · Express · MongoDB · JWT
-
+ 
 - **JWT authentication** with full CRUD for posts, comments, and users
 - Advanced features: bookmarks, **sorting, filtering, pagination**, draft & archive handling
 - Modular middleware layer with reusable, testable architecture
 - Consistent REST standards with structured error responses throughout
-
 🔗 [View Project](#) &nbsp;|&nbsp; [API Docs](#)
-
+ 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
 ### 💼 RecruitMate — Job Recruitment Portal
 > Full-stack hiring platform with dual-role access · `Jun 2025`
-
+ 
 **Stack:** Node.js · Express · EJS · MongoDB
-
+ 
 - **Dual-role system**: Recruiters manage job postings; Applicants browse & apply with resume upload
 - Automated **email confirmations** via environment-configured mail service
 - Session-based authentication, file handling middleware, and secure route guards
 - Real-world MVC architecture with routing and full-stack principles
-
 🔗 [View Project](#) &nbsp;|&nbsp; [GitHub](https://github.com/UjjwalShakeya/recruitmate-app)
-
+ 
 </td>
 <td width="50%" valign="top">
-
 ### 🎵 Mini Music Player
 > Interactive browser music player — pure vanilla JS · `Feb 2025`
-
+ 
 **Stack:** HTML5 · CSS3 · JavaScript
-
+ 
 - Custom **playlist creation** — users build and manage multiple playlists
 - **Dark & Light mode** with smooth theme transitions
 - Genre-based filtering with seamless song playback controls
 - Zero dependencies — demonstrates strong DOM manipulation fundamentals
-
 🔗 [View Project](#) &nbsp;|&nbsp; [GitHub](https://github.com/UjjwalShakeya/mini-music-player)
-
+ 
 </td>
 </tr>
 </table>
-
 <br/>
+
 
 ## GitHub Stats
 
