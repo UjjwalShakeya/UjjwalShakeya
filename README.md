@@ -95,7 +95,7 @@ My experience spans RESTful API design, database modeling (MongoDB & PostgreSQL)
 | Real-time multi-tenant dashboard for personalized content tracking | Improved user engagement & retention |
 | RESTful APIs with Express middleware for optimized AI request handling | Improved backend response efficiency |
 
-🔗 &nbsp;[View Project](#) &nbsp;&nbsp;·&nbsp;&nbsp; [Live Demo](#)
+🔗 &nbsp;[View Project](https://github.com/UjjwalShakeya/zyntra-ai) &nbsp;&nbsp;·&nbsp;&nbsp; [Live Demo](https://zyntra-ai-sandy.vercel.app/)
 
 ---
 
@@ -117,7 +117,7 @@ My experience spans RESTful API design, database modeling (MongoDB & PostgreSQL)
 | RESTful APIs for resume data storage, retrieval, and version management | **99% reliable** form submission & persistence |
 | Scalable MongoDB Atlas schema for structured resume data | Clean, query-efficient data architecture |
 
-🔗 &nbsp;[View Project](#) &nbsp;&nbsp;·&nbsp;&nbsp; [Live Demo](#)
+🔗 &nbsp;[View Project](https://github.com/UjjwalShakeya/resume_builder) &nbsp;&nbsp;·&nbsp;&nbsp; [Live Demo](#)
 
 ---
 
@@ -137,7 +137,7 @@ My experience spans RESTful API design, database modeling (MongoDB & PostgreSQL)
 | JWT authentication with structured middleware and error handling | Secure, consistent API behavior throughout |
 | Pluggable module design with reusable service layers | Maintainability and scalability built-in |
 
-🔗 &nbsp;[View Project](#) &nbsp;&nbsp;·&nbsp;&nbsp; [API Docs](#)
+🔗 &nbsp;[View Project](https://github.com/UjjwalShakeya/Postaway-II) &nbsp;&nbsp;·&nbsp;&nbsp; [API Docs](#)
 
 ---
 
@@ -192,7 +192,7 @@ My experience spans RESTful API design, database modeling (MongoDB & PostgreSQL)
 - Genre-based filtering and interactive playback controls
 - Built with zero dependencies — demonstrates strong vanilla JS & DOM fundamentals
 
-🔗 &nbsp;[View Project](#) &nbsp;&nbsp;·&nbsp;&nbsp; [GitHub](https://github.com/UjjwalShakeya/mini-music-player)
+🔗 &nbsp;[View Project](https://github.com/UjjwalShakeya/mini-music-player) &nbsp;&nbsp;·&nbsp;&nbsp; [GitHub](https://github.com/UjjwalShakeya/mini-music-player)
 
 <br/>
 
